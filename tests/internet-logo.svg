@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" shape-rendering="crispEdges"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 250"
-	 style="enable-background:new 0 0 500 250;" xml:space="preserve">
+<svg version="1.1" shape-rendering="crispEdges"
+	 xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 500 250">
 <style type="text/css">
-	.st0{fill:#0000FF;}
+	.st0{
+	animation: blink 1s steps(1) infinite;
+	fill: blue;
+	}
+
+	@keyframes blink {
+	0% {
+	fill: blue;
+	}
+	50% {
+	fill: purple;
+	}
+	}
 </style>
 <g>
 	<rect x="314" y="113" class="st0" width="16" height="8"/>
 	<rect x="210" y="113" class="st0" width="24" height="8"/>
-	<polygon class="st0" points="290,129 298,129 298,161 290,161 290,169 314,169 314,161 306,161 306,129 314,129 314,121 306,121 
+	<polygon class="st0" points="290,129 298,129 298,161 290,161 290,169 314,169 314,161 306,161 306,129 314,129 314,121 306,121
 		306,113 298,113 298,121 290,121 	"/>
 	<polygon class="st0" points="274,161 266,161 266,129 274,129 274,121 266,121 266,113 258,113 258,121 250,121 250,129 258,129 
 		258,161 250,161 250,169 274,169 	"/>
