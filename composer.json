@@ -1,0 +1,13 @@
+{
+    "name": "alexander/alogofortheinternet",
+    "description": "A logo for the Internet.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ACJ",
+            "email": "gitlab@acjs.net"
+        }
+    ],
+    "require": {}
+}
