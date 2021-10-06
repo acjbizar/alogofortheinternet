@@ -3,7 +3,7 @@
 	 xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 500 250">
 <style type="text/css">
 	.st0{
-	animation: blink 1s steps(1) infinite;
+	animation: blink 2s steps(1) infinite;
 	fill: blue;
 	}
 
