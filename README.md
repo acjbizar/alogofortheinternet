@@ -1,4 +1,4 @@
-# A logo for the internet
+# A logo for the Internet
 
 ## Links
 
