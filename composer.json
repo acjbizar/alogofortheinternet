@@ -3,6 +3,11 @@
     "description": "A logo for the Internet.",
     "type": "project",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Acj\\Alogofortheinternet\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "ACJ",
